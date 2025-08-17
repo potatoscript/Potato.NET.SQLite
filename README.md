@@ -26,13 +26,13 @@ You define your own `DbSet<T>`s (tables) in a small context class and start savi
 In **Package Manager Console**:
 
 ```powershell
-Install-Package Potato.NET.SQLite -Version 1.0.1
+Install-Package Potato.NET.SQLite -Version 1.0.0
 ```
 
 Or with **.NET CLI**:
 
 ```bash
-dotnet add package Potato.NET.SQLite --version 1.0.1
+dotnet add package Potato.NET.SQLite --version 1.0.0
 ```
 
 > **Note:** `Potato.NET.SQLite` brings EF Core runtime dependencies.
